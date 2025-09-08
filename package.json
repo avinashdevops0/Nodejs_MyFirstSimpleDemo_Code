@@ -1,7 +1,7 @@
 {
-  "name": "docker-node-practice",
+  "name": "docker-node-demo",
   "version": "1.0.0",
-  "description": "A simple Node.js app for Docker practice",
+  "description": "Simple Node.js demo app with welcome page",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
@@ -13,7 +13,7 @@
   "devDependencies": {
     "nodemon": "^3.0.0"
   },
-  "keywords": ["docker", "nodejs", "express"],
+  "keywords": ["docker", "nodejs", "demo"],
   "author": "Your Name",
   "license": "MIT"
 }
